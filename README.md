@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks 👋 I go by Rahul Barodia</h1>
-<h3 align="center">Passionate programmer and technology enthusiast with a drive for continuous learning and problem-solving.</h3>
+<h3 align="center">Enthusiastic programmer with a passion for technology, continuous learning, and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul28428&label=Profile%20views&color=0e75b6&style=flat" alt="rahul28428" /> </p>
 
