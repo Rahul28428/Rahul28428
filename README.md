@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **barodia.1@gmail.com**
 
-- I love football ⚽️   <span style="margin-left: 2cm;">CR7 🐐🛐</span>  
+- <p> I love football ⚽️   <span style="margin-left: 2cm;">CR7 🐐🛐</span> </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
