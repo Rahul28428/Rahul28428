@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **barodia.1@gmail.com**
 
-- ⚡ Fun fact **I love football ⚽️**
+- ** I love football ⚽️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
