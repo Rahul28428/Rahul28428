@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **barodia.1@gmail.com**
+- 📫 How to reach me **rahulbarodia28@gmail.com**
 
 - <p> I love football ⚽️   <span style="margin-left: 2cm;">CR7 🐐🛐</span> </p> 
 
