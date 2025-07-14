@@ -1,17 +1,12 @@
 <h1 align="center">Hi folks 👋 I go by Rahul Barodia</h1>
-<h3 align="center">Enthusiastic programmer with a passion for technology, continuous learning, and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul28428&label=Profile%20views&color=0e75b6&style=flat" alt="rahul28428" /> </p>
 
 - 📫 How to reach me **rahulbarodia28@gmail.com**
 
-- <p> I love football ⚽️   <span style="margin-left: 2cm;">CR7 🐐🛐</span> </p> 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulbarodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulbarodia" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/rahul-barodia-258466267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul barodia" height="30" width="40" /></a>
-<a href="https://instagram.com/rahulbarodia_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulbarodia_48" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">View me here:</h3>
